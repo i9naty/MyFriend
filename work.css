@@ -1,0 +1,36 @@
+body{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: gray;
+    
+}
+.shapka{
+    background-color: black;
+    border-radius: 28px;
+}
+.logo{
+    width: 400px;
+    border-radius: 28px;
+}
+.Valut{
+    font-style: italic;
+    margin:auto ;
+}
+.liti{
+    background-color: black;
+    border-radius: 28px;
+    color: aliceblue;
+    padding: 15px; 
+    text-align: center
+}
+IMG.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.later{
+    background-color: aliceblue;
+    border-radius: 28px;
+    padding: 15px; 
+}
